@@ -1,0 +1,45 @@
+<twitter4j.conf.ConfigurationBase: void setOAuthConsumerKey(java.lang.String)>?0
+<twitter4j.conf.ConfigurationBuilder: void setOAuthConsumerSecret(java.lang.String)>?0
+<com.facebook.AuthenticationToken: void <init>(java.lang.String,java.lang.String)>?0/1
+<com.facebook.FacebookSdk: void setClientToken(java.lang.String)>?0
+<com.facebook.ads.sdk.APIContext: void <init>(java.lang.String,java.lang.String)>?0/1
+<com.alibaba.sdk.android.oss.common.auth.OSSStsTokenCredentialProvider: void <init>(java.lang.String,java.lang.String,java.lang.String)>?0/1/2
+<com.feedhenry.sdk.FH: com.feedhenry.sdk.api.FHAuthRequest buildAuthRequest(java.lang.String, java.lang.String, java.lang.String)>?2
+<com.feedhenry.sdk.api.FHAuthRequest: void setAuthUser(java.lang.String, java.lang.String, java.lang.String)>?2
+<com.ibm.cloud.sdk.core.security.BearerTokenAuthenticator: void <init>(java.lang.String)>?0
+<com.microsoft.azure.storage.CloudStorageAccount: com.microsoft.azure.storage.CloudStorageAccount parse(java.lang.String)>?0
+<com.microsoft.windowsazure.mobileservices.MobileServiceClient: void <init>(java.lang.String,android.content.Context)>?0
+<com.microsoft.windowsazure.mobileservices.MobileServiceClient: void <init>(java.lang.String,java.lang.String,android.content.Context)>?0/1
+<com.google.firebase.FirebaseOptions: void <init>(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)>?0/1/2/5
+<com.google.firebase.FirebaseOptions: void <init>(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)>?0/1/2/5
+<com.amazonaws.auth.CognitoCredentialsProvider: void <init>(java.lang.String,java.lang.String,java.lang.String,java.lang.String,com.amazonaws.regions.Region,com.amazonaws.ClientConfiguration)>?1
+<com.amazonaws.auth.BasicAWSCredentials: void <init>(java.lang.String,java.lang.String)>?0/1
+<com.amazonaws.services.s3.AmazonS3Client: void deleteObject(java.lang.String,java.lang.String)>?0
+<com.aliyun.credentials.models.Config: void setAccessKeyId(java.lang.String)>?0
+<com.aliyun.credentials.models.Config: void setAccessKeySecret(java.lang.String)>?0
+<com.aliyun.credentials.models.Config: void setBearerToken(java.lang.String)>?0
+<com.ibm.cloud.sdk.core.security.BearerTokenAuthenticator: void <init>(java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: void deleteVersion(java.lang.String,java.lang.String,java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: boolean doesObjectExist(java.lang.String,java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: java.lang.String getBucketLocation(java.lang.String,java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: com.amazonaws.services.s3.model.S3Object getObject(java.lang.String,java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: java.lang.String getObjectAsString(java.lang.String,java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: java.lang.String getResourceUrl(java.lang.String,java.lang.String)>?0
+<com.amazonaws.mobileconnectors.s3.transferutility.TransferUtility: com.amazonaws.mobileconnectors.s3.transferutility.TransferObserver downloadUpload(java.lang.String, java.lang.String, java.io.File)>?0
+<com.amazonaws.mobileconnectors.s3.transferutility.TransferUtility: com.amazonaws.mobileconnectors.s3.transferutility.TransferObserver download(java.lang.String, java.lang.String, java.io.File)>?0
+<com.amazonaws.mobileconnectors.s3.transferutility.TransferUtility: com.amazonaws.mobileconnectors.s3.transferutility.TransferObserver download(java.lang.String, java.lang.String, java.io.File,com.amazonaws.mobileconnectors.s3.transferutility.TransferListener)>?0
+<com.amazonaws.mobileconnectors.s3.transferutility.TransferUtility: com.amazonaws.mobileconnectors.s3.transferutility.TransferObserver upload(java.lang.String, java.lang.String, java.io.File)>?0
+<com.amazonaws.mobileconnectors.s3.transferutility.TransferUtility: com.amazonaws.mobileconnectors.s3.transferutility.TransferObserver upload(java.lang.String, java.lang.String, java.io.File,com.amazonaws.services.s3.model.ObjectMetadata)>?0
+<com.amazonaws.mobileconnectors.s3.transferutility.TransferUtility: com.amazonaws.mobileconnectors.s3.transferutility.TransferObserver upload(java.lang.String, java.lang.String, java.io.File,com.amazonaws.services.s3.model.CannedAccessControlList)>?0
+<com.amazonaws.mobileconnectors.s3.transferutility.TransferUtility: com.amazonaws.mobileconnectors.s3.transferutility.TransferObserver upload(java.lang.String, java.lang.String, java.io.File,com.amazonaws.services.s3.model.ObjectMetadata,com.amazonaws.services.s3.model.CannedAccessControlList)>?0
+<com.amazonaws.mobileconnectors.s3.transferutility.TransferUtility: com.amazonaws.mobileconnectors.s3.transferutility.TransferObserver upload(java.lang.String, java.lang.String, java.io.File,com.amazonaws.services.s3.model.ObjectMetadata,com.amazonaws.services.s3.model.CannedAccessControlList,com.amazonaws.mobileconnectors.s3.transferutility.TransferListener)>?0
+<com.microsoft.windowsazure.messaging.notificationhubs.NotificationHub: void <init>(java.lang.String,java.lang.String,android.content.Context)>?1
+<com.amazonaws.services.s3.AmazonS3Client: java.net.Url getUrl(java.lang.String,java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: com.amazonaws.services.s3.model.ObjectListing listObjects(java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: com.amazonaws.services.s3.model.ObjectListing listObjects(java.lang.String,java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: com.amazonaws.services.s3.model.ListObjectsV2Result listObjectsV2(java.lang.String,java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: com.amazonaws.services.s3.model.ListObjectsV2Result listObjectsV2(java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: com.amazonaws.services.s3.model.PutObjectResult putObject(java.lang.String, java.lang.String, java.io.File)>?0
+<com.amazonaws.services.s3.AmazonS3Client: com.amazonaws.services.s3.model.PutObjectResult putObject(java.lang.String, java.lang.String,java.io.InputStream,com.amazonaws.services.s3.model.ObjectMetadata)>?0
+<com.amazonaws.services.s3.AmazonS3Client: com.amazonaws.services.s3.model.PutObjectResult putObject(java.lang.String, java.lang.String, java.lang.String)>?0
+<com.amazonaws.services.s3.AmazonS3Client: void restoreObject(java.lang.String, java.lang.String, int)>?0
